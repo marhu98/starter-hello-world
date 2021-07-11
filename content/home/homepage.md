@@ -7,7 +7,7 @@ widget: blank  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
 
-title: "👋 Hollie Beau is the Chief Data Officer at Tidbit Games in Shanghai."
+title: "Hello world"
 subtitle: ""
 
 design:
